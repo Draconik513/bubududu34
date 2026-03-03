@@ -62,7 +62,7 @@ const BirthdayCountdown = ({ isIOS }) => {
         className="text-center max-w-2xl"
       >
         <h1 className="text-4xl md:text-5xl font-bold text-pink-600 mb-8">
-          The Birthday of <span className="text-purple-600">ineu</span>
+          The Birthday of <span className="text-purple-600">piaa</span>
         </h1>
 
         <div className="mb-8">
