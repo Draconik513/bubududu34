@@ -35,33 +35,33 @@ const Memories = ({ isIOS }) => {
 
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
             <p>
-              💌 <strong>Maaf ya, Sayang...</strong>
+              💌 <strong>Maaff yaa cantikk</strong>
             </p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau
-              kurang peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu
-              kecewa, salah paham, atau merasa sendiri 😓. Aku gak pernah
-              berniat nyakitin kamu 🥺. Semua itu karena aku manusia biasa yang
-              masih belajar mencintaimu dengan lebih baik 🤍.
+              I’m sorry if all this time I’ve been troublesome, too clingy, or
+              not mature enough 😢. I’m sorry if sometimes I’ve made you
+              disappointed, caused misunderstandings, or made you feel tired. I
+              never meant to hurt you 🥺. All of that is because I love you so
+              much.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus
-              belajar jadi lebih baik lagi... untuk kamu 💗
+              Thank you for being patient and for staying here 🫶. I will keep
+              learning to become a better person… for you 💗
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 1.8 }}
+              transition={{ duration: 1, delay: 1.2 }}
             >
-              🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
+              🙏🏻 I’m sorry, and thank you for still believing in me.
             </motion.p>
           </div>
         </motion.div>
