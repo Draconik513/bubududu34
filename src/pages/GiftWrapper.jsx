@@ -15,7 +15,7 @@ const GiftWrapper = () => {
   // Check if countdown is finished (August 10, 2025)
   useEffect(() => {
     const checkCountdown = () => {
-      const targetDate = new Date("2026-04-09T23:00:00");
+      const targetDate = new Date("2026-04-08T23:00:00");
       const now = new Date();
       if (now >= targetDate) {
         setCountdownFinished(true);
